@@ -88,3 +88,8 @@
 <img width="672" height="675" alt="Screenshot 2026-06-19 183503" src="https://github.com/user-attachments/assets/70a4d715-9b77-4928-9be5-7fb424d25d45" />
 <p> the base address was </strong>0x980000</strong>. </p>
 <p align="right">(<a href="#top">Back to Top</a>)</p>
+
+
+<h2 id="reference"> Reference </h2>
+<p> <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/abc1230940/blackenergy/"> CyberDefenders - BlackEnergy Lab </a> </p>
+<p align="right">(<a href="#top">Back to Top</a>)</p>
